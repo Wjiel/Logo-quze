@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ded6ca2601cde27418884bcb364b673a, type: 3}
+  m_Name: Question1
+  m_EditorClassIdentifier: 
+  Title: Samsung
+  SuccessfulImage: {fileID: -7684094196345438853, guid: 7a6d052b7bd1bee4ea6a68897901b6e7, type: 3}
+  FrongImage: {fileID: 8990658309086907615, guid: 384e01c1394324549848c0159b1ddbb9, type: 3}
